@@ -1,0 +1,25 @@
+.card {
+  border-radius: 1rem;
+  width: 200px;
+  text-align: center;
+  padding: 1rem;
+  cursor: pointer;
+  background-color: rgba(128, 128, 128, 0.2);
+  transition: transform 0.5 ease-in-out;
+}
+
+.card:hover {
+  background-color: rgba(128, 128, 128, 0.5);
+  transform: scale(1.03);
+}
+
+.card p {
+  margin: 0;
+  text-align: center;
+  color: white;
+}
+
+.card img {
+  height: 200px;
+  width: auto;
+}

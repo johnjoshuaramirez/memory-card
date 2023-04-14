@@ -1,0 +1,25 @@
+.header {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.header p {
+  border: 1px solid black;
+  border-radius: 1.5rem;
+  padding: 0.5rem 1rem;
+  display: flex;
+  align-items: center;
+}
+
+.header p:first-child {
+  background-color: lightcoral;
+}
+
+.header p:last-child {
+  background-color: lightgreen;
+}
+
+.header span {
+  margin-left: 0.5rem;
+}

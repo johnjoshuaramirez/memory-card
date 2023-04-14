@@ -1,0 +1,8 @@
+.container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1rem;
+  transform: scale(0.7);
+  position: relative;
+  bottom: 7rem;
+}
