@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/memory-card/static/css/main.0f6b0bb6.css",
-    "main.js": "/memory-card/static/js/main.85455149.js",
+    "main.css": "/memory-card/static/css/main.55d2910b.css",
+    "main.js": "/memory-card/static/js/main.066fa6bc.js",
     "static/media/finn.png": "/memory-card/static/media/finn.5eb0fb921c6079df2d67.png",
     "static/media/stag.png": "/memory-card/static/media/stag.66f7bce4b554ca000789.png",
     "static/media/bubblegum.png": "/memory-card/static/media/bubblegum.c594809c926ab642a36c.png",
@@ -12,13 +12,14 @@
     "static/media/snail.png": "/memory-card/static/media/snail.dbeaf2f4acc8f0079310.png",
     "static/media/magicman.png": "/memory-card/static/media/magicman.49aabc5994eb452c5e67.png",
     "static/media/jake.png": "/memory-card/static/media/jake.567998f572f5dec5bf3c.png",
+    "static/media/Adventure Time Logo.ttf": "/memory-card/static/media/Adventure Time Logo.205558e5c0da867e7d60.ttf",
     "static/media/iceking.png": "/memory-card/static/media/iceking.416e819596fb94805645.png",
     "index.html": "/memory-card/index.html",
-    "main.0f6b0bb6.css.map": "/memory-card/static/css/main.0f6b0bb6.css.map",
-    "main.85455149.js.map": "/memory-card/static/js/main.85455149.js.map"
+    "main.55d2910b.css.map": "/memory-card/static/css/main.55d2910b.css.map",
+    "main.066fa6bc.js.map": "/memory-card/static/js/main.066fa6bc.js.map"
   },
   "entrypoints": [
-    "static/css/main.0f6b0bb6.css",
-    "static/js/main.85455149.js"
+    "static/css/main.55d2910b.css",
+    "static/js/main.066fa6bc.js"
   ]
 }
